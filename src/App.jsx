@@ -1,5 +1,5 @@
 import Image from "./Image";
-import Introduction from "./Introduction";
+import Introduction from "./Header";
 import Button from "./Button";
 import Section from "./Section"
 import Footer from "./Footer"
