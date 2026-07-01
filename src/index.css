@@ -10,6 +10,7 @@ html{
     width: 317px;
     margin: 2rem auto;
     background: #1A1B21;
+    border-radius: 10px;
 }
 .profil{
     width: 317px;
@@ -78,4 +79,12 @@ footer{
     justify-content: center;
     align-items: center;
     gap: 25px;
+}
+.social {
+    width: 24px;
+    height: 24px;
+}
+.icone-mail {
+    width: 16px;
+    height: 16px;
 }
